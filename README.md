@@ -154,10 +154,4 @@ Edite `config.py` e adicione:
 
 Projeto livre para uso pessoal e educacional.
 
-## ✨ Versão
 
-**v1.0** - Dezembro de 2025
-
----
-
-**Desenvolvido para organizar Downloads de forma inteligente e segura!**
